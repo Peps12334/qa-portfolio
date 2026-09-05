@@ -40,10 +40,10 @@
 
 | ID        | Test Case                                  | Priority | Status | Actual Result | Bug ID | Notes |
 | --------- | ------------------------------------------ | -------- | ------ | ------------- | ------ | ----- |
-| TC-001-01 | Homepage loads successfully                | High     | PASS   | All interface load success|        |       |
-| TC-001-02 | Homepage navigation works correctly        | High     |        |               |        |       |
-| TC-001-03 | Main page elements are displayed correctly | Medium   |        |               |        |       |
-| TC-001-04 | Homepage works after page refresh          | Medium   |        |               |        |       |
+| TC-001-01 | Homepage loads successfully                | High     | PASS   | All interface load success|    -    |    -   |
+| TC-001-02 | Homepage navigation works correctly        | High     | PASS       | All buttons work correctly             |    -    |    -   |
+| TC-001-03 | Main page elements are displayed correctly | Medium   | FAIL       |      Some image of food are not displaed             |    BUG - 001    |    -   |
+| TC-001-04 | Homepage works after page refresh          | Medium   | PASS     |       -        |    -    |    -   |
 
 ---
 
